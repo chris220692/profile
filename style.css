@@ -1,0 +1,139 @@
+body {
+
+  background-color: #353831;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 200;
+  color:;
+  font-size: 15px;
+  line-height: 1.6;
+}
+
+h1 {
+  font-family: 'Adamina', serif;
+  font-weight: 100;
+  font-size: 45px;
+  font-weight: 900;
+  line-height: 1;
+  color: white;
+  margin-left: 30px;
+  text-align: center;
+  letter-spacing: 4px;
+}
+
+h2 {
+  font-family: 'Nunito', sans-serif;
+  font-weight: 100;
+  font-size: 30px;
+  font-weight: 900;
+  line-height: 2;
+  color: white;
+  margin-left: 30px;
+
+}
+
+h3 {
+  font-family: 'Nunito', sans-serif;
+  font-weight: 100;
+  font-size: 22px;
+  font-weight: 900;
+  line-height: 0.4;
+}
+
+h4 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 100;
+  font-size: 20px;
+  font-weight: 500;
+
+}
+
+h5 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 100;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 0;
+}
+
+img {
+  width: 300px;
+  height: 300px;
+  max-width: 100%;
+  height: auto;
+  border-radius: 5%;
+
+}
+
+#chris  {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10%;
+  display: block;
+  width: 200px;
+  height: 200px;
+  margin: 0, auto;
+}
+
+#rf  {
+  width: 200px;
+  height: 200px;
+  max-width: 100%;
+  height: auto;
+  border-radius: ;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+#ski  {
+  width: 200px;
+  height: 200px;
+  max-width: 100%;
+  height: auto;
+  border-radius: ;
+  left: 200px;
+}
+
+
+p {
+  text-align: justify;
+}
+
+a:hover {
+  background-color: white;
+}
+
+
+.profile {
+  width: 95%;
+  margin: 30px;
+  background: #C0C5C1;
+  border-radius: 15px;
+  padding: 30px;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+  border: 5px solid rgba(30, 30, 30, 30);
+}
+
+.hobbies {
+  width: 95%;
+  margin: 30px;
+  background: #C0C5C1;
+  padding: 30px;
+  border-radius: 15px;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+  border: 5px solid rgba(30, 30, 30, 30);
+
+}
+
+.movies {
+  width: 95%;
+  margin: 30px;
+  background: #C0C5C1;
+  padding: 30px;
+  border-radius: 15px;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+  border: 5px solid rgba(30, 30, 30, 30);
+
+}
+
